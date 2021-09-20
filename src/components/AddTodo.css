@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 10px;
+}
+.input-task {
+  width: 90%;
+}
+button {
+  font-weight: bold;
+}
